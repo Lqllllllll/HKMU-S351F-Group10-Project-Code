@@ -1,8 +1,10 @@
-The environment used in the project:
+The environment used in the project:  
+
 - python3.7
 - MySQL5.7
 
-1.import the database file(db_book.sql)in the folder
+1.import the database file(db_book.sql)in the folder  
+
 1.1 we use Navicat for MySql(your computer should install MySql firstly)
 1.2 create db_book as a new local database
 1.3 run db_book.sql in local database 'db_book'
